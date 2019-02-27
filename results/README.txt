@@ -1,0 +1,1 @@
+Encoding: latin1 / ISO-8859-1
